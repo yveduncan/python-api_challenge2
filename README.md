@@ -1,5 +1,12 @@
 # python-api_challenge2
 
+# 1. Project Title
+    # Python-API_Challenge
+    
+# 2. Project Description
+    # Part 1: WeatherPy - created a representative model of weather across cities
+    # Part 2: VacationPy - used Geoapify API and geoViews Python library to create map visualizations
+
 # Resolved Questions in askBCS
     # ASK-266983 Submitted Jul 23 6:26 PM ... Answered Jul 23 6:42 PM
         # Trying to make a Pandas Dataframe but keep getting error that I need an index
